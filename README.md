@@ -58,8 +58,6 @@ Edit `.env` (any editor works). Example contents:
 # Server
 PORT=3000
 
-# MongoDB (replace <YOUR_DB> with the database name you want)
-MONGODB_URI=mongodb+srv://gauravshivmurat2_db_user:EMWl7hGj5Q7CN42t@cluster0.7xb6qoj.mongodb.net/<YOUR_DB>
 
 # JWT
 JWT_SECRET=super-secret-key
